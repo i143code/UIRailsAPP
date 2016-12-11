@@ -1,28 +1,15 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<span style="color: green"> Lets you Sign In ,Sign Up, Forgot Password , Sign Out. Using Rest API created earlier to perform these action </span>
+![image](https://raw.githubusercontent.com/i143code/UIRailsAPP/master/images/Screen%20Shot%202016-12-10%20at%207.36.18%20PM.png)
+<span style="color: green"> -------------------------------------------------------------------------------- </span>
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+![image](https://raw.githubusercontent.com/i143code/UIRailsAPP/master/images/Screen%20Shot%202016-12-10%20at%207.36.24%20PM.png)
+<span style="color: green"> -------------------------------------------------------------------------------- </span>
+
+
+![image](https://raw.githubusercontent.com/i143code/UIRailsAPP/master/images/Screen%20Shot%202016-12-10%20at%207.36.58%20PM.png)
+<span style="color: green"> -------------------------------------------------------------------------------- </span>
+
+
+![image](https://raw.githubusercontent.com/i143code/UIRailsAPP/master/images/Screen%20Shot%202016-12-10%20at%207.38.28%20PM.png)
+<span style="color: green"> -------------------------------------------------------------------------------- </span>
