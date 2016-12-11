@@ -1,4 +1,5 @@
 Lets you Sign In ,Sign Up, Forgot Password , Sign Out. Using Rest API created earlier to perform these action 
+
 ![image](https://raw.githubusercontent.com/i143code/UIRailsAPP/master/images/Screen%20Shot%202016-12-10%20at%207.36.18%20PM.png)
 
 
